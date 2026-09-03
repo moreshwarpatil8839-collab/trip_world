@@ -252,16 +252,20 @@ This project is released under the MIT License. See [`LICENSE`](./LICENSE).
 
 ## References
 
-[1]: https://developer.chrome.com/docs/ai/webmcp "Chrome WebMCP documentation"
+## References
 
-[2]: https://developer.chrome.com/docs/ai/webmcp/imperative-api "Chrome WebMCP imperative API"
+- [Chrome WebMCP documentation](https://developer.chrome.com/docs/ai/webmcp )
+- [WebMCP imperative API](https://developer.chrome.com/docs/ai/webmcp/imperative-api )
+- [WebMCP security guidance](https://developer.chrome.com/docs/ai/webmcp/secure-tools )
+- [WebMCP GitHub specification](https://github.com/webmachinelearning/webmcp )
+- [WebMCP Challenge resources](https://webmcp.devpost.com/resources )
+- [Vite on Vercel](https://vercel.com/docs/frameworks/frontend/vite )
+- [Vercel project configuration](https://vercel.com/docs/project-configuration )
+- [Vercel environment variables](https://vercel.com/docs/environment-variables )
+- [Razorpay Node.js integration](https://razorpay.com/docs/payments/server-integration/nodejs/payment-gateway/build-integration/ )
+- [Razorpay test mode](https://razorpay.com/docs/payments/payments/test-mode/ )
+- [GitHub Documentation](https://docs.github.com/ )
+- [MIT License](https://opensource.org/license/mit/ )
 
-[3]: https://developer.chrome.com/docs/ai/webmcp/secure-tools "Chrome WebMCP security guidance"
-
-[4]: https://webmcp.devpost.com/resources "WebMCP Challenge resources"
-
-[5]: https://vercel.com/docs/frameworks/frontend/vite "Vite on Vercel"
-
-[6]: https://razorpay.com/docs/payments/server-integration/nodejs/payment-gateway/build-integration/ "Razorpay server integration documentation"
 
 trip_world is an open-web experiment for making travel planning more understandable, collaborative, and agent-ready.
